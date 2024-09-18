@@ -1,3 +1,20 @@
+# Aplicacion web de piano 
+web de practicas de piano que permite tocar el piano con raton y teclado 
+
+## tecnologias
+- npm
+- vite
+- vitest
+
+## dependencias
+- tone js
+- gh pages
+
+## deploy
+
+
+## comandos
+
 Descarga las dependencias del proyecto
 npm install
 ---
@@ -27,15 +44,15 @@ se podra tocar tambien con el teclado del ordenador
 - [x] mostrar una web con las teclas blancas (sin sonido)
 - [x] permitir que el usuario toque en teclas y suena
 - [x] añadir las teclas negras
-- [] permitir que el usuario toque el piano con el teclado del ordenador
+- [x] permitir que el usuario toque el piano con el teclado del ordenador
 - [] incorporar sonidos reales
-- [] refactorizar
-- [] testear 
+- [x] refactorizar
+- [x] testear 
 - [x] deployar
 
 
 - codigo limpio  <-- refactorizacion
 - codigo correcto  <-- test
 - codigo optimizado (opcional)
-- codigo flexible  <-- 
+- codigo flexible  <-- refactorizacion
 - codigo seguro
